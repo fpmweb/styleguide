@@ -26,6 +26,8 @@ Document Format Style Guide][xml] may be helpful. In addition to actual style
 rules, it also contains advice on designing your own vs. adapting an existing
 format, on XML instance document formatting, and on elements vs. attributes.
 
+This guide is available in other languages too. See [Translation](#translation)
+
 The style guides in this project are licensed under the CC-By 3.0 License,
 which encourages you to share these documents.
 See [https://creativecommons.org/licenses/by/3.0/][ccl] for more details.
@@ -52,3 +54,11 @@ The following Google style guides live outside of this project:
 [go]: https://golang.org/wiki/CodeReviewComments
 [dart]: https://www.dartlang.org/guides/language/effective-dart
 [ccl]: https://creativecommons.org/licenses/by/3.0/
+
+
+## Translation
+
+  This style guide is also available in other languages:
+
+  - ![ca](https://raw.githubusercontent.com/fpmweb/styleguide/gh-pages/img/catala.png) **Catalan**: [fpmweb/styleguide](https://github.com/fpmweb/styleguide)
+  
